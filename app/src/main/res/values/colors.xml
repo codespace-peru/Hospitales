@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#4682b4</color>
+    <color name="background_splash">#ff0000</color>
+    <color name="titulo_aplicacion">#800000</color>
+    <color name="title_divider">#ffff00</color>
+    <color name="gridgroup_divider">#d2691e</color>
+    <color name="gridchild_divider">#660033</color>
+    <color name="text_color1">#ffffff</color>
+    <color name="text_color2">#ffffff</color>
+    <color name="text_color3">#006400</color>
+    <color name="coloressalud">#277dc6</color>
+    <color name="colorminsa">#0c0d6a</color>
+    <color name="colorffaapp">#26661e</color>
+    <color name="colorprivado">#f76405</color>
+    <color name="colorsisol">#ae3592</color>
+    <color name="colorcercano">#fe0002</color>
+</resources>

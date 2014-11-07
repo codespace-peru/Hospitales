@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hospitales</string>
+    <string name="action_settings">Settings</string>
+    <string name="hospitales_essalud">EsSalud</string>
+    <string name="hospitales_minsa">Ministerio de Salud</string>
+    <string name="hospitales_ffaapp">Fuerzas Armadas y Policiales</string>
+    <string name="hospitales_cercanos">Establecimientos cercanos a mí</string>
+    <string name="title_menu_main">Guía de Establecimientos de Salud en el Perú</string>
+    <string name="title_activity_activity_centros">ActivityCentros</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

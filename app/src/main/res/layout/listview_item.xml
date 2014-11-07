@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="3dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/tvIdListItem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/tvNombreListItem"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/text_subgroup2"
+            android:textColor="@color/text_color1"
+            android:text="dddd"
+            android:textSize="@dimen/text_subgroup2"
+            android:gravity="center_vertical"
+            android:ellipsize="end"
+            android:singleLine="true"/>
+    </RelativeLayout>
+</LinearLayout>
